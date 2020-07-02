@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "653607542001",
+    "firebase_url": "https://guitar-c8cfc.firebaseio.com",
+    "project_id": "guitar-c8cfc",
+    "storage_bucket": "guitar-c8cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653607542001:android:2200abfe14bf5ae6da1d50",
+        "android_client_info": {
+          "package_name": "com.example.android.guitar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653607542001-bd0qqp62p2k6s4fs3tte84qd59ct9dsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.guitar",
+            "certificate_hash": "f86ee0649282726a36afab13fb33e2b353728fe2"
+          }
+        },
+        {
+          "client_id": "653607542001-fgup9jmoi7t354q771o73gmqso9vsh3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1ejFo_PGXi0gQCp7sVzjyJZNsQgRrPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653607542001-fgup9jmoi7t354q771o73gmqso9vsh3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

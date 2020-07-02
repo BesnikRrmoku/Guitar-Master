@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#f44335</color>
+    <color name="primaryLightColor">#ff7960</color>
+    <color name="primaryDarkColor">#b9000b</color>
+    <color name="secondaryColor">#64ffda</color>
+    <color name="secondaryLightColor">#9effff</color>
+    <color name="secondaryDarkColor">#14cba8</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="lightGray">#F5F5F5</color>
+
+<!--    //LEARNING-->
+    <color name="tan_background">#FFF7DA</color>
+    <color name="category_tunning">#FD8E09</color>
+    <color name="category_chords">#379237</color>
+    <color name="category_btracks">#8800A0</color>
+
+<!--    web-->
+
+    <color name="rate1">#4A7BA7</color>
+    <color name="rate2">#04B4B3</color>
+    <color name="rate3">#10CAC9</color>
+    <color name="rate4">#F5A623</color>
+    <color name="rate5">#FF7D50</color>
+    <color name="rate6">#FC6644</color>
+    <color name="rate7">#E75F40</color>
+    <color name="rate8">#E13A20</color>
+    <color name="rate9">#D93218</color>
+    <color name="rate10plus">#C03823</color>
+    <color name="textColorGuitarDetails">#B4BAC0</color>
+    <color name="textColorGuitarLocation">#2B3D4D</color>
+
+<!--    storage -->
+    <color name="editorColorPrimary">#2D3640</color>
+    <color name="editorColorPrimaryDark">#394450</color>
+
+
+    <color name="colorPrimary">#9b1ac9</color>
+    <color name="colorPrimaryDark">#710d95</color>
+    <color name="colorAccent">#9b1ac9</color>
+    <color name="colorwhite">#ffffff</color>
+    <color name="colorblack">#000</color>
+
+</resources>

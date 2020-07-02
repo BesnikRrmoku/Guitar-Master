@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Guitar</string>
+    <string name="google_maps_api_key">AIzaSyBBypRPXcvAG2TU6TwpqhG14Vz9yYnjkfg</string>
+
+    <!--    LEARNING -->
+    <string name="category_btracks">B-Tracks</string>
+
+    <string name="category_tunning">Tunning</string>
+    <string name="category_chords">Chords</string>
+
+    <string name="chord_one">D</string>
+    <string name="chord_two">Dmin</string>
+    <string name="chord_three">A</string>
+    <string name="chord_four">Amin</string>
+    <string name="chord_five">E</string>
+    <string name="chord_six">Emin</string>
+    <string name="chord_seven">C</string>
+    <string name="chord_eight">G</string>
+    <string name="chord_nine">F</string>
+    <string name="Major">Major</string>
+    <string name="Minor">Minor</string>
+
+    <string name="E_note">E</string>
+    <string name="A_note">A</string>
+    <string name="D_note">D</string>
+    <string name="G_note">G</string>
+    <string name="B_note">B</string>
+    <string name="e_note_small">e</string>
+
+    <string name="sixth_note">Sixth Note</string>
+    <string name="fifth_note">Fifth Note</string>
+    <string name="fourth_note">Fourth Note</string>
+    <string name="third_note">Third Note</string>
+    <string name="second_note">Second Note</string>
+    <string name="first_note">First Note</string>
+
+    <string name="g_major">G Major Scale</string>
+    <string name="blues">12 Bar Blues</string>
+    <string name="backing_track">Backing Track</string>
+
+    <!--    web-->
+    <string name="name_web">Name: </string>
+
+    <!--    storage -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Exercises</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a Exercise</string>
+    <string name="editor_activity_title_new_exercise">Add a Exercise</string>
+    <string name="editor_activity_title_edit_exercise">Edit Exercise</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_insert_exercise_successful">Exercise saved</string>
+    <string name="editor_insert_exercise_failed">Error with saving Exercise</string>
+    <string name="editor_update_exercise_successful">Exercise updated</string>
+    <string name="editor_update_exercise_failed">Error with updating Exercise</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_exercise_successful">Exercise deleted</string>
+    <string name="editor_delete_exercise_failed">Error with deleting Exercise</string>
+    <string name="delete_dialog_msg">Delete this Exercise?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="category_overview">Overview</string>
+    <string name="category_difficulty">Difficulty</string>
+    <string name="Minutes">Minutes</string>
+    <string name="hint_exercise_name">Exercise Name</string>
+    <string name="hint_exercise_desc">Desc</string>
+    <string name="hint_exercise_min">Minutes</string>
+    <string name="unit_exercise_min">Min</string>
+    <string name="difficult_easy">Easy</string>
+    <string name="difficult_medium">Medium</string>
+    <string name="difficult_hard">Hard</string>
+    <string name="unknown_description">Unknown Description</string>
+    <string name="unknown_difficulty">Easy</string>
+    <string name="unknown_minutes">-</string>
+
+</resources>
