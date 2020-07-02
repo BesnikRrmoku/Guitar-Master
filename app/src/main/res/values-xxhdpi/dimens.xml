@@ -1,5 +1,4 @@
 <resources>
-	<dimen name="list_item_height">211.2dp</dimen>
 	<dimen name="activity_margin">38.4dp</dimen>
 	<dimen name="fab_margin">38.4dp</dimen>
 </resources>
